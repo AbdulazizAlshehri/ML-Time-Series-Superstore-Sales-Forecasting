@@ -7,7 +7,7 @@ Machine learning timeseries superstore sales forecasting
 - [Presentation](https://github.com/AbdulazizAlshehri/ML-Time-Series-Superstore-Sales-Forecasting/blob/main/presentation/Furniture%20Sales%20Forecasting.pdf)
 
 # About
-A time series project that aim to forecast the furneture sales for the next 3 years based on the data of the last 4 years. Linear Regression with lag, first three degree polynomial with lag, ARIMA, and SARIMA were tested on forecasting furneture sales of the next three years.
+A time-series project that aims to forecast the furniture sales for the next 3 years based on the data of the last 4 years. Linear Regression with lag, first three degrees polynomial with lag, ARIMA, and SARIMA were tested to forecast furniture sales for the next three years.
 
 
 </br>
