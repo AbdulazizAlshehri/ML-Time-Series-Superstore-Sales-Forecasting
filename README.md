@@ -26,21 +26,16 @@ Scince we are interested only furniture sales we want to know how much is the fu
 ![](graphs/data_disturbution.png?raw=true "")
 
 
-### Monthly Furniture-Sales
+### Annual Furniture-Sales
+The following graph shows a month-wise comparison over years, noticeable, few months like 3,7, and 9 have close sales to each other over the past 4 years vice versa in months like 5,9, and 11: 
 
-![](graphs/furniture_sales_monthly.png?raw=true "")
+![](graphs/furniture_sales_annual.png?raw=true "")
 
 
 ### Quarterly Furniture-Sales
 The following graph shows seasonality increasing (yearly) in the furniture sales: 
 
 ![](graphs/furniture_sales_quarterly.png?raw=true "")
-
-
-### Annual Furniture-Sales
-The following graph shows a month-wise comparison over years, noticeable, few months like 3,7, and 9 have close sales to each other over the past 4 years vice versa in months like 5,9, and 11: 
-
-![](graphs/furniture_sales_annual.png?raw=true "")
 
 
 ### trend in Furniture-Sales
