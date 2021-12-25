@@ -38,7 +38,7 @@ The following graph shows seasonality increasing (yearly) in the furniture sales
 ![](graphs/furniture_sales_quarterly.png?raw=true "")
 
 
-### trend in Furniture-Sales
+### Trend in Furniture-Sales
 The following graph shows an increasing trend in furniture sales over the last 4 years:
 
 ![](graphs/trend.png?raw=true "")
