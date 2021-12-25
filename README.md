@@ -1,7 +1,3 @@
-# ML-Time-Series-Superstore-Sales-Forecasting
-
-
-
 
 # Table of Content
 - [Code](https://github.com/AbdulazizAlshehri/ML-Time-Series-Superstore-Sales-Forecasting/blob/main/code/Superstore_Sales_Forecasting_.ipynb)
